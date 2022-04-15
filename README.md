@@ -14,8 +14,8 @@ You want to put efforts into managing products that have:
 - The highest contribution to your total turnover: ABC Analysis
 - The most unstable demand: Demand Variability
 
-### Medium Article
-In this [Medium Article](https://towardsdatascience.com/product-segmentation-for-retail-with-python-c85cc0930f9a), we will introduce simple statistical tools to combine ABC Analysis and Demand 
+### Article
+In this [Article](https://www.samirsaci.com/product-segmentation-for-retail-with-python/), we will introduce simple statistical tools to combine ABC Analysis and Demand 
 Variability to perform products segmentation.
 
 ### Problem Statement
