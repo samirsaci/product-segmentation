@@ -25,6 +25,12 @@ You want to put effort into managing products that have:
 In this [Article](https://www.samirsaci.com/product-segmentation-for-retail-with-python/), we will introduce simple statistical tools to combine ABC Analysis and Demand 
 Variability to perform product segmentation.
 
+### Youtube Video
+Click on the image below to access the video tutorial that explains the concept behind this solution
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=Qglr9Yqa44I"><img src="https://i.ytimg.com/vi/Qglr9Yqa44I/hqdefault.jpg" alt="20% of Your SKUs Are Doing 80% of the Work"></a>
+</div>
+
 ### Problem Statement
 You are the Operational Director of a local Distribution Center (DC) that delivers 10 Hypermarkets.
 
@@ -44,6 +50,7 @@ In this repository, you will find all the code used to explain the concepts pres
 ## Go further
 
 - **The full write-up, with the reasoning behind the code:** [Product Segmentation for Retail with Python](https://www.samirsaci.com/product-segmentation-for-retail-with-python/?utm_source=github&utm_medium=readme&utm_campaign=product-segmentation)
+- **The video:** [20% of Your SKUs Are Doing 80% of the Work](https://youtu.be/Qglr9Yqa44I)
 - **Test what you learned:** the [Supply Science App](https://supply-science.com/?utm_source=github&utm_medium=readme&utm_campaign=product-segmentation) has lessons and quizzes on inventory management, free and in the browser.
 - **100+ case studies with their source code:** [samirsaci.com](https://www.samirsaci.com/?utm_source=github&utm_medium=readme&utm_campaign=product-segmentation)
 
